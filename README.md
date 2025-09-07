@@ -1,7 +1,7 @@
 # Tender Recommendation & AI Proposal Generator
 
 A full-stack application that recommends relevant tenders to registered bidders based on vector embeddings and automatically generates AI-powered bid proposals.
-
+NOTE: AI Proposal Maker module is functional; design/UI is basic, and some edge cases are not handled yet. Remaining modules and deployment will be completed in next iterations
 
 ## 🔹 Features
 
