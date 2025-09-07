@@ -23,6 +23,12 @@ A full-stack application that recommends relevant tenders to registered bidders 
 * Optional: Download proposal as PDF
 
 ---
+##     Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a5e3dd5f-54b6-4eca-95ba-5f2d000c7bc0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0d144c70-29bb-44b3-a087-e472e78a7ff2" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0c1f54db-5495-46d7-80e2-478353a33448" />
+
+
 
 ## 🔹 API Endpoints
 
