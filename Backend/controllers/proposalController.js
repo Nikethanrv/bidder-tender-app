@@ -16,7 +16,7 @@ const getBidder = async (req, res) => {
     }
 
     // 2. Fetch tender dynamically
-    const tender = await TenderProfile.findOne({ tenderId });
+    const tender = await TenderProfile.findOne({ tenderId: tenderId });
     if (!tender) {
       return res.status(404).json({
         status: "error",
@@ -45,7 +45,7 @@ const generateProposal = async (req, res) => {
     }
 
     // 2. Fetch tender dynamically
-    const tender = await TenderProfile.findOne({ tenderId: "tend_q1w2e3r4" });
+    const tender = await TenderProfile.findOne({ tenderId });
     if (!tender) {
       return res.status(404).json({
         status: "error",
